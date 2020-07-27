@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+   <head>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+   </head>
+   <body>
+    
+    <div id="header">
+      <h1>daniel's limosine</h1>
+      <ul id="navbar">
+        <a href="index.html">
+          <li>Home</li>
+        </a>
+        <a href="lamborghini.html">
+          <li>lamborghini</li>
+          </a>
+        <a href="toyota.html">
+          <li>toyata</li>
+        </a>
+        <a href="smashed cars.html">
+        <li>smashed cars</li>
+        </a>
+      </ul>
+    </div>
+
+    <p>This is the lamborgihini page</p>
+    
+    <script src="script.js"></script>
+  </body>
+</html>
