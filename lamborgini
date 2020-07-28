@@ -12,18 +12,23 @@
           <li>Home</li>
         </a>
         <a href="lamborghini.html">
-          <li>lamborghini</li>
+          <li id="lamborghini">lamborghini</li>
           </a>
         <a href="toyota.html">
           <li>toyata</li>
         </a>
-        <a href="smashed cars.html">
-        <li>smashed cars</li>
+        <a href="smashedcars.html">
+        <li>smashedcars</li>
         </a>
       </ul>
     </div>
-
-    <p>This is the lamborgihini page</p>
+    
+    <p>This is my smashed car!</p>
+    
+    <script>
+      document.getElementById("lamborghini").style
+        .backgroundColor = "yellow";
+    </script>
     
     <script src="script.js"></script>
   </body>
