@@ -21,3 +21,10 @@
 #navbar li:hover {
   background-color: pink;
 }
+
+.pic {
+  width: 250px;
+  height: 250px;
+  
+}
+    
